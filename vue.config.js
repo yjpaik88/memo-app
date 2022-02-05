@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'prodcution' ? '/memo-app/' : '/',
+    publicPath: process.env.NODE_ENV === 'production' ? '/memo-app/' : '/',
     outputDir: 'docs'
 }
